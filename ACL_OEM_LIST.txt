@@ -1,0 +1,8 @@
+# ACL OEM代理列表
+
+(^|\.)\w*youtube\w*\.\w*$
+(^|\.)\w*npmjs\w*\.\w*$
+(^|\.)\w*plupload\w*\.\w*$
+(^|\.)\w*clipconverter\w*\.\w*$
+(^|\.)\w*github\w*\.\w*$
+(^|\.)\w*jsfiddle\w*\.\w*$ 
