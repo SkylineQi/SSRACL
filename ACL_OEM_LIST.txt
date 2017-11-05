@@ -5,4 +5,9 @@
 (^|\.)\w*plupload\w*\.\w*$
 (^|\.)\w*clipconverter\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
-(^|\.)\w*jsfiddle\w*\.\w*$ 
+(^|\.)\w*jsfiddle\w*\.\w*$
+(^|\.)\w*github\w*\.\w*$
+(^|\.)\w*vuejs\w*\.\w*$
+(^|\.)\w*nuxtjs\w*\.\w*$
+(^|\.)\w*vuetifyjs\w*\.\w*$
+(^|\.)\w*quasar-framework\w*\.\w*$
